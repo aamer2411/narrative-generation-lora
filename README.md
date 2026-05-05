@@ -1,4 +1,4 @@
-# Urdu Narrative Generation via Pre-Trained Language Models with Prompt Engineering and LoRA Fine-Tuning
+# Narrative Generation via Pre-Trained Language Models with Prompt Engineering and LoRA Fine-Tuning
 
 **MSc Data Science Thesis | Liverpool John Moores University (LJMU)**  
 **Author:** Mohammed Aamer | **Supervisor:** Dr. Brett Drury | **August 2025**
@@ -7,7 +7,6 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-orange?logo=huggingface)
 ![LoRA](https://img.shields.io/badge/PEFT-LoRA-green)
 ![Platform](https://img.shields.io/badge/Platform-Google%20Colab-yellow?logo=googlecolab)
-![Language](https://img.shields.io/badge/Language-Urdu%20NLP-red)
 
 ---
 
