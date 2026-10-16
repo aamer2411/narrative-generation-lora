@@ -145,7 +145,7 @@ GPT-2-Urdu (Workflow D) uses **53% less GPU memory** than mT5 (1,255 MB vs 2,700
 ## Repository Structure
 
 ```
-urdu-narrative-generation-lora/
+narrative-generation-lora/
 ├── notebooks/
 │   ├── 01_baseline_evaluation.py       # Objective 1: mT5 vs GPT-2-Urdu, no enhancements
 │   ├── 02_prompt_engineering.py        # Objective 2a: four prompt strategies, Workflow B
